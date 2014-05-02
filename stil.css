@@ -1,0 +1,45 @@
+/* CSS Document */
+#arkaplan { position:absolute; left:0px; top:-5px; width:100%;  background-image:url(image/34.jpg); }
+#site{position:relative; width:960px; height:1024px; margin:0px auto;}
+#ana{position:absolute;left:0px; top:0px; width:960px; height:1024px; background-image:url(image/kar.png);}
+#banner{position:absolute;top:0px; left:100px;background-image:url(image/banner.png); background-repeat:no-repeat;background-position:center;height:131px;width:860px;}
+#logo{position:absolute;   left:0px;top:0px;background-image:url(image/logo.jpg);background-repeat:no-repeat;background-color:#FFF;height:131px;width:100px;}
+#menü{position:absolute;left:0px;top:132px;background:#06F;width:154px;height:30px;text-align:center;font-size:24px;font-weight:900;color:#FFF;text-decoration:none;opacity:0.9;}
+#menü:hover{background-color:#03F;opacity:1;}
+#menü2{position:absolute;left:155px;top:132px;background:#06F;width:154px;height:30px;text-align:center;font-size:24px;font-weight:900;color:#FFF;text-decoration:none;opacity:0.9;}
+#menü2:hover{background-color:#03F;opacity:1;}
+#menü3{ position:absolute;left:310px;top:132px;background:#06F;width:154px;height:30px;text-align:center;font-size:24px;font-weight:900;color:#FFF;text-decoration:none;opacity:0.9;}
+#menü3:hover{background-color:#03F;opacity:1;}
+#menü4{position:absolute;left:465px;top:132px;background:#06F;width:154px;height:30px;text-align:center;font-size:24px;font-weight:900;color:#FFF;text-decoration:none;opacity:0.9;}
+#menü4:hover{background-color:#03F;opacity:1;}
+#menü5{ position:absolute;left:620px;top:132px;background:#06F;width:154px;height:30px;text-align:center;font-size:24px;font-weight:900;color:#FFF;text-decoration:none;opacity:0.9;}
+#menü5:hover{background-color:#03F;opacity:1;}
+#menü6{ position:absolute;left:775px;top:132px;background:#06F;width:180px;height:30px;text-align:center;font-size:24px;font-weight:900;color:#FFF;text-decoration:none;opacity:0.9;}
+#menü6:hover{background-color:#03F;opacity:1;}
+#ilan{position:absolute;top:165px;left:5px;background-color:#CCC;height:40px;width:950px;color:#09F;font-size:36px;font-weight:900;text-align:center;}
+#yazi{position:absolute;top:300px;left:250px;color:#000;font-size:36px;font-weight:900;}
+#yazi2{position:absolute;top:300px;left:50px;color:#000;font-size:36px;font-weight:900;}
+#orn { position:absolute; left:5%; top:250px; color:#000; font-size:18px; font-weight:900; width:200px; height:200px; border:solid #06F; }
+#orn img { padding: 0; max-width: 100%;}
+#kontrol { background-color:#CCC;  margin:300px auto; height:200px; width:300px; border:5px #FFFFFF groove;border-radius:50px;}
+#kullanici { margin-top:50px; margin-left:25px; width:250px;height:30px;}
+#kullanici2 { margin-top:5px; margin-left:25px; width:250px; height:30px;}
+#sumbit { margin-top:20px; margin-left:90px; height:40px; width:100px;}
+#uydu { width:960px; height:350px; margin:630px auto; }
+#icerik {margin-top:200px;}
+#orta { margin-top::20px;  } 
+#table { border:solid 3px #06F; margin-left:50px; margin-top:50px; width:200px;}
+#anatable { margin-left:50px; margin-top:-30px; }
+#table2 { border:solid 3px #06F; margin:5px 5px auto; width:150px;}
+#anatable2 { margin:250px auto; }
+#sayfasonu { position:absolute; left:120px;  bottom:0; }
+#infoyazi {  font-weight:900;  }
+#infoleft { margin-left:0px; width:400px; height:300px; }
+#inforight { margin-left:280px; margin-top:-330px; width:400px; height:300px; }
+#infos { font-weight:900; font-size:30px;  }
+#infos2 {   font-weight:400; font-size:30px;  }
+#infoana { margin:auto; width:800px; height:300px; }
+#infogri {  width:550px; height:45px; background:#CCC; }
+#infobeyaz { width:550px; height:45px; background:#FFF; }
+#infogri2 {  width:550px; height:90px; background:#FFF; }
+#infobeyaz2 { width:550px; height:90px; background:#CCC; }
